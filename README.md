@@ -10,4 +10,5 @@ npm install better-sqlite3
 npm install 
 npm install dotenv
 npm run deploy
-npm start**
+npm start
+OPEN YOUR DISOCRD APP GO TO YOUR SERVER AND TYPE !help***
