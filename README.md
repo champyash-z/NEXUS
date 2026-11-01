@@ -1,4 +1,4 @@
-*FIRST DONLAOD NODE.JS 
+**FIRST DONLAOD NODE.JS 
 EXTRACT THE .ZIP FILE AND OPEN IN N EDITOR APP 
 THEN CREATE A FILE NAME .env THERE U HAVE TO PUT TOUR DISOCORD BOT TOKEN YOUR SERVER GUILD ID 
 IN TERMINAL RUN THESE CMDS
@@ -10,4 +10,4 @@ npm install better-sqlite3
 npm install 
 npm install dotenv
 npm run deploy
-npm start
+npm start**
